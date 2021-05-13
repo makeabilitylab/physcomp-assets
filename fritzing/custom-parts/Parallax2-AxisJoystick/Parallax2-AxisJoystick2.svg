@@ -1,0 +1,152 @@
+<svg id="_2-Axis_Joystick" data-name="2-Axis Joystick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.2 100.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #014cb1;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #d4c399;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #9ca2a4;
+        stroke: #000;
+        stroke-width: 0.5px;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 0.6px;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+        font-size: 2.849px;
+      }
+
+      .cls-13, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        font-family: DroidSans, Droid Sans;
+      }
+
+      .cls-6 {
+        font-size: 6px;
+      }
+
+      .cls-7 {
+        font-size: 5px;
+        font-family: OCRA;
+      }
+
+      .cls-8 {
+        font-size: 4px;
+      }
+
+      .cls-9 {
+        fill: #313131;
+      }
+
+      .cls-10 {
+        opacity: 0.5;
+      }
+
+      .cls-11 {
+        fill: #161616;
+      }
+
+      .cls-12 {
+        opacity: 0.3;
+      }
+
+      .cls-14 {
+        opacity: 0.05;
+      }
+
+      .cls-15 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,0V100.8H79.2V0ZM17.585,98.184A4.385,4.385,0,1,1,21.97,93.8,4.385,4.385,0,0,1,17.585,98.184Zm.283-87.234a4.385,4.385,0,1,1,4.385-4.385A4.386,4.386,0,0,1,17.868,10.95Zm43.4,87.427a4.385,4.385,0,1,1,4.385-4.385A4.384,4.384,0,0,1,61.269,98.377Zm.284-87.427a4.385,4.385,0,1,1,4.385-4.385A4.385,4.385,0,0,1,61.553,10.95Z" transform="translate(0 0)"/>
+  <g id="Copper_Holes" data-name="Copper Holes">
+    <circle class="cls-2" cx="17.868" cy="6.565" r="4.385"/>
+    <circle class="cls-2" cx="61.553" cy="6.565" r="4.385"/>
+    <circle class="cls-2" cx="17.585" cy="93.799" r="4.385"/>
+    <circle class="cls-2" cx="61.269" cy="93.992" r="4.385"/>
+  </g>
+  <circle id="L_R_Top-Left" data-name="L/R+ Top-Left" class="cls-3" cx="6.949" cy="13.617" r="2.556"/>
+  <circle id="L_R_Top-Left-2" data-name="L/R Top-Left" class="cls-3" cx="6.949" cy="21.015" r="2.556"/>
+  <circle id="U_D_Top-Right" data-name="U/D+ Top-Right" class="cls-3" cx="72.249" cy="13.617" r="2.556"/>
+  <circle id="L_R_Top-Right" data-name="L/R Top-Right" class="cls-3" cx="72.249" cy="21.015" r="2.556"/>
+  <circle id="U_D_Bottom-Left" data-name="U/D Bottom-Left" class="cls-3" cx="6.949" cy="79.074" r="2.556"/>
+  <circle id="GND_Bottom-Left" data-name="GND Bottom-Left" class="cls-3" cx="6.949" cy="86.61" r="2.556"/>
+  <circle id="U_D_Bottom_Right" data-name="U/D Bottom Right" class="cls-3" cx="72.249" cy="79.074" r="2.556"/>
+  <circle id="GND_Bottom-Right" data-name="GND Bottom-Right" class="cls-3" cx="72.249" cy="86.61" r="2.556"/>
+  <line id="line5068" class="cls-4" x1="46.556" y1="8.67" x2="46.556" y2="1.303"/>
+  <line id="line5070" class="cls-4" x1="46.556" y1="1.303" x2="47.608" y2="2.355"/>
+  <line id="line5072" class="cls-4" x1="46.556" y1="1.303" x2="45.503" y2="2.355"/>
+  <line id="line5074" class="cls-4" x1="47.959" y1="10.073" x2="55.326" y2="10.073"/>
+  <line id="line5076" class="cls-4" x1="55.326" y1="10.073" x2="54.274" y2="9.021"/>
+  <line id="line5078" class="cls-4" x1="55.326" y1="10.073" x2="54.274" y2="11.126"/>
+  <g id="g5180">
+    <g id="g5184">
+      <g id="g5186">
+        <text id="text5188" class="cls-5" transform="translate(50.766 9.02)">X</text>
+      </g>
+    </g>
+  </g>
+  <g id="g5190">
+    <g id="g5194">
+      <g id="g5196">
+        <text id="text5198" class="cls-5" transform="translate(47.608 6.565)">Y</text>
+      </g>
+    </g>
+  </g>
+  <text class="cls-6" transform="translate(26.216 7.643)">2-Axis</text>
+  <text class="cls-7" transform="translate(25.3 96.628)">PARALLAX</text>
+  <text class="cls-8" transform="translate(11.255 15.23)">L/R+</text>
+  <text class="cls-8" transform="translate(11.255 22.47)">L/R</text>
+  <text class="cls-8" transform="translate(59.698 15.229)">U/D+</text>
+  <text class="cls-8" transform="translate(61.553 22.518)">L/R</text>
+  <text class="cls-8" transform="translate(11.166 80.638)">U/D</text>
+  <text class="cls-8" transform="translate(11.166 87.879)">GND</text>
+  <text class="cls-8" transform="translate(61.399 80.876)">U/D</text>
+  <text class="cls-8" transform="translate(59.418 87.975)">GND</text>
+  <g id="Stick">
+    <g id="joystick">
+      <circle id="circle5436" class="cls-9" cx="39.488" cy="51.199" r="38.408"/>
+      <g id="g5438" class="cls-10">
+        <circle id="circle5440" class="cls-11" cx="39.488" cy="51.199" r="35.97"/>
+      </g>
+      <circle id="circle5442" class="cls-11" cx="39.488" cy="51.199" r="34.042"/>
+      <circle id="circle5444" cx="39.487" cy="51.199" r="30.828"/>
+      <circle id="circle5446" class="cls-9" cx="39.487" cy="51.199" r="29.088"/>
+      <g id="g5448" class="cls-12">
+        <path id="path5450" class="cls-13" d="M43.422,22.377A29.089,29.089,0,1,0,68.308,55.132,29.086,29.086,0,0,0,43.422,22.377Zm13.3,51.505c-11.85,9-29.168,6.142-38.687-6.386s-7.631-29.982,4.218-38.984S51.42,22.37,60.939,34.9,68.569,64.879,56.723,73.882Z" transform="translate(0 0)"/>
+      </g>
+      <g id="g5452" class="cls-14">
+        <path id="path5454" class="cls-13" d="M55.49,36.707a31.4,31.4,0,0,1,8.148,29.187c5.166-9.311,4.474-21.55-2.7-30.993C51.421,22.373,34.1,19.513,22.253,28.515c-.194.147-.378.3-.567.456C32.766,24.48,46.292,27.157,55.49,36.707Z" transform="translate(0 0)"/>
+      </g>
+      <g id="g5456" class="cls-14">
+        <path id="path5458" class="cls-13" d="M58.945,35.7a31.341,31.341,0,0,1,4.368,30.75c5.513-9.376,4.944-21.918-2.375-31.553a28.949,28.949,0,0,0-23.33-11.627A31.751,31.751,0,0,1,58.945,35.7Z" transform="translate(0 0)"/>
+      </g>
+      <g id="g5460" class="cls-15">
+        <path id="path5462" d="M12.033,47.865a29.607,29.607,0,0,0,27.21,31.209A33.618,33.618,0,0,1,12.033,47.865Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
