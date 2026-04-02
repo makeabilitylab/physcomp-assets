@@ -1,16 +1,1 @@
-
-arduino/buttons/~$Arduino_Button_SchematicsAndDiagrams.pptx
-arduino/buttons/~$Debouncing.pptx
-arduino/~$AnalogInput.pptx
-arduino/~$Joystick.pptx
-arduino/~$Vibromotors.pptx
-electronics/~$CircuitSchematics.pptx
-arduino/~$WebSerial.pptx
-arduino/~$SerialCommunication-AutoRecovered.pptx
-arduino/~$SerialCommunication.pptx
-arduino/~$OLED-AutoRecovered.pptx
-oled/~$OLED.pptx
-arduino/~$PaintIO.pptx
-cpx/~$CPX.pptx
-cpx/~$MakeCode-BuildingBlinky.pptx
-cpx/~$MakeCode.pptx
+~$*.pptx
