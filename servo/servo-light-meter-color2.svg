@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="800" height="500">
+  <defs>
+    <linearGradient id="arcGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#333333"/>
+      <stop offset="100%" stop-color="#E8913A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="250" fill="#ffffff" />
+
+  <path d="M 61.4 140 A 160 160 0 0 1 338.6 140" fill="none" stroke="url(#arcGradient)" stroke-width="4" stroke-linecap="round"/>
+
+  <g stroke-linecap="round">
+    <line x1="200" y1="60" x2="200" y2="75" transform="rotate(-60, 200, 220)" stroke="#2D2D2D" stroke-width="3" />
+    <line x1="200" y1="60" x2="200" y2="70" transform="rotate(-30, 200, 220)" stroke="#333333" stroke-width="2" />
+    <line x1="200" y1="60" x2="200" y2="80" stroke="#666666" stroke-width="4" />
+    <line x1="200" y1="60" x2="200" y2="70" transform="rotate(30, 200, 220)" stroke="#A07840" stroke-width="2" />
+    <line x1="200" y1="60" x2="200" y2="75" transform="rotate(60, 200, 220)" stroke="#C48530" stroke-width="3" />
+  </g>
+
+  <!-- Moon (crescent) -->
+  <g transform="rotate(-60, 200, 220) translate(200, 32) rotate(60)"> 
+    <path d="M-7,-9 A12,12 0 1,0 9,7 A14,14 0 0,1 -7,-9 Z" fill="#2D2D2D" />
+  </g>
+
+  <!-- Sun (circle + rays) -->
+  <g transform="rotate(60, 200, 220) translate(200, 32) rotate(-60)">
+    <circle cx="0" cy="0" r="7" fill="#F5A623"/>
+    <g stroke="#E8913A" stroke-width="2.5" stroke-linecap="round">
+      <line x1="0" y1="-10" x2="0" y2="-15"/>
+      <line x1="0" y1="10" x2="0" y2="15"/>
+      <line x1="-10" y1="0" x2="-15" y2="0"/>
+      <line x1="10" y1="0" x2="15" y2="0"/>
+      <line x1="-7.1" y1="-7.1" x2="-10.6" y2="-10.6"/>
+      <line x1="7.1" y1="7.1" x2="10.6" y2="10.6"/>
+      <line x1="-7.1" y1="7.1" x2="-10.6" y2="10.6"/>
+      <line x1="7.1" y1="-7.1" x2="10.6" y2="-10.6"/>
+    </g>
+  </g>
+  
+  <!-- Servo hub -->
+  <path d="M 180 220 A 20 20 0 0 1 220 220 Z" fill="#eeeeee" stroke="#333333" stroke-width="2"/>
+  <circle cx="200" cy="220" r="3" fill="#333333"/>
+</svg>
